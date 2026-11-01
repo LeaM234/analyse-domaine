@@ -15,13 +15,13 @@
 
 | Domaine | Intérêt | Pourquoi |
 |---|---|---|
-| Graphisme | faible | ... |
-| Vidéo et animation 2D | moyen | ... |
-| 3D | moyen | ... |
-| Web | fort | ... |
-| Jeux vidéo | faible | ... |
-| Développement logiciel | faible | ... |
-| Installations et expériences immersives | fort | ... |
+| Graphisme | faible | J'aime moins le dessin et les arts visuels. |
+| Vidéo et animation 2D | moyen | J'aime découvrir les techniques de montage vidéo. |
+| 3D | moyen | J'aime découvrir comment créer des objets en 3D. |
+| Web | fort | J'aime voir le résultat concret de ce que je crée. |
+| Jeux vidéo | faible | Je m'en lasse rapidement, car c'est souvent répétitif. |
+| Développement logiciel | fort | J'aime apprendre à programmer. |
+| Installations et expériences immersives | fort | C'est intéressant les façons de mélanger le numérique et les espaces réels. |
 
 ## Mes 2 domaines préférés
 
