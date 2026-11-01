@@ -46,18 +46,18 @@
 
 ![Infinity Experiences](entreprise.png)
 
-(source de l'image : ...)
+(source de l'image : https://theinfiniteexperience.world/fr/%C3%A0-propos)
 
 - Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
 - Étapes de production : Idéation et recherche (concept), Préproduction (plannification), Production (création), Postproducion (retouches, optimisation), Opération (mises à jours)
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Type d'emploi visé : Développement technologique et programmation interactive
+- Étapes pour obtenir cet emploi : Étudier en multimédias, faire un portfolio, avoir de l'expérience (exemple: stage dans un studio).
 
 ## Conclusion
 
-- Mon profil en une phrase : Je suis une personne créative et organisée qui veut 
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
+- Mon profil en une phrase : Je suis une personne créative et organisée qui veut concevoir des expériences immersives et interactives.
+- Ce qui m'a surpris : Le nombre de type d'emplois dans le domaine d'installations et expériences immersives.
+- Ma force principale et la faiblesse à travailler : Ma créativité m'aidera et je dois travailler sur mon initiative.
 - Mon action d'ici la fin de la session : Créer un site web des nouvelles du pôle nord pour Noël.
 
 ## Ma capsule
