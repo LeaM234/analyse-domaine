@@ -25,30 +25,30 @@
 
 ## Mes 2 domaines préférés
 
-### Domaine 1 : Web
+### Domaine 1 : Installations et expériences immersives
 
-- Expérience : Cours de web 1, où j'ai commencé à voir le HTML et le CSS
-- Logiciels et outils : Je connais Visual Studio Code
+- Expérience : Aucune, la technique peut m'aider a m'y initier (audio, projection, ect).
+- Logiciels et outils : J'aimerais apprendre à utiliser un casque de réalité augmenté, des capteurs de mouvements et des projecteurs.
+- Pourquoi il m'intéresse : Ce sont des projets concrets et ils permettent de faire vivre une expérience et pas seulement d'être derrière un écran.
+- Travailler dans ce domaine : Je me vois travailler dans ce domaine, car c'est créatif tout en utilisant différentes technologies. Je trouve que le résultat est toujours impressionnant.
+
+### Domaine 2 : Web
+
+- Expérience : Cours de web 1, où j'ai commencé à voir le HTML et le CSS.
+- Logiciels et outils : Je connais Visual Studio Code.
 - Pourquoi il m'intéresse : Le résultat est concret et je vois directement ce que je crée.
-- Travailler dans ce domaine : ...
-
-### Domaine 2 : Installations et expériences immersives
-
-- Expérience : Aucune, la technique peut m'aider a m'y initier (audio, projection, ect)
-- Logiciels et outils : ...
-- Pourquoi il m'intéresse : ...
 - Travailler dans ce domaine : ...
 
 ## Les caractéristiques de mon domaine préféré
 
-- Types d'entreprises : Startups, Organismes, Instituts culturels
-- Exemple d'entreprise : ...
+- Types d'entreprises : Startups, Organismes, Instituts culturels, diffuseurs
+- Exemple d'entreprise : Infinity Experiences (Coentreprise fondée par Studio PHI et Felix et Paul Studios)
 
 ![Nom de l'entreprise](entreprise.jpg)
 
 (source de l'image : ...)
 
-- Types de produits et de services : Site web et mobile, commerce électronique, balado, portails, web-docu, websérie
+- Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
 - Étapes de production : Idéation et recherche (concept), Préproduction (plannification), Production (création), Postproducion (retouches, optimisation), Opération (mises à jours)
 - Type d'emploi visé : ...
 - Étapes pour obtenir cet emploi : ...
