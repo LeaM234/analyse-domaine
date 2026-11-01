@@ -44,7 +44,7 @@
 - Types d'entreprises : Startups, Organismes, Instituts culturels, diffuseurs
 - Exemple d'entreprise : Infinity Experiences (Coentreprise fondée par Studio PHI et Felix et Paul Studios)
 
-![Nom de l'entreprise](entreprise.jpg)
+![Infinity Experiences](entreprise.png)
 
 (source de l'image : ...)
 
