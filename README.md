@@ -4,11 +4,11 @@
 ## Découverte de soi
 
 - Mes forces : organisation, créativité
-    - Exemple : ...
-- Mes faiblesses ou points à améliorer : 
-    - Exemple : ...
-- Seul(e) ou en équipe : ...
-    - Pourquoi et exemple : ...
+    - Exemple : Je crée des maquettes avec du matériel recyclé dans mes temps libres. Je fais le plan et la construction.
+- Mes faiblesses ou points à améliorer : initiative
+    - Exemple : J'ai tendance à préférer suivre des directions claires.
+- Seul(e) ou en équipe : En équipe
+    - Pourquoi et exemple : Cela permet de faire de plus grands projets. Par exemple, à l'école secondaire, j'ai fait des costumes our le spectacle de Noël de l'école. On a pu en faire plusieurs en peu de temps puisqu'on était plusieurs, en plus de se partager nos connaissances.
 - Plutôt technique ou créatif : technique
 
 ## Exploration des domaines
@@ -37,7 +37,7 @@
 - Expérience : Cours de web 1, où j'ai commencé à voir le HTML et le CSS.
 - Logiciels et outils : Je connais Visual Studio Code.
 - Pourquoi il m'intéresse : Le résultat est concret et je vois directement ce que je crée.
-- Travailler dans ce domaine : ...
+- Travailler dans ce domaine : Je ne travaillerais pas nécessairement dans ce domaine, mais ça peut être des projets personnels.
 
 ## Les caractéristiques de mon domaine préféré
 
@@ -49,7 +49,7 @@
 (source de l'image : https://theinfiniteexperience.world/fr/%C3%A0-propos)
 
 - Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
-- Étapes de production : Idéation et recherche (concept), Préproduction (plannification), Production (création), Postproducion (retouches, optimisation), Opération (mises à jours)
+- Étapes de production : Idéation et recherche (concept), Préproduction (plan), Production (création), Postproducion (montage, tests), Opération (entretien, surveillance)
 - Type d'emploi visé : Développement technologique et programmation interactive
 - Étapes pour obtenir cet emploi : Étudier en multimédias, faire un portfolio, avoir de l'expérience (exemple: stage dans un studio).
 
