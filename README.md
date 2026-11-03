@@ -8,7 +8,7 @@
 - Mes faiblesses ou points à améliorer : initiative
     - Exemple : J'ai tendance à préférer suivre des directions claires.
 - Seul(e) ou en équipe : En équipe
-    - Pourquoi et exemple : Cela permet de faire de plus grands projets. Par exemple, à l'école secondaire, j'ai fait des costumes our le spectacle de Noël de l'école. On a pu en faire plusieurs en peu de temps puisqu'on était plusieurs, en plus de se partager nos connaissances.
+    - Pourquoi et exemple : Cela permet de faire de plus grands projets. Par exemple, à l'école secondaire, j'ai fait des costumes pour le spectacle de Noël de l'école. On a pu en faire plusieurs en peu de temps puisqu'on était plusieurs, en plus de se partager nos connaissances.
 - Plutôt technique ou créatif : technique
 
 ## Exploration des domaines
