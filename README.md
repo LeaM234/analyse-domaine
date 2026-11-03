@@ -42,12 +42,11 @@
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Startups, Organismes, Instituts culturels, diffuseurs
-- Exemple d'entreprise : Infinity Experiences (Coentreprise fondée par Studio PHI et Felix et Paul Studios)
+- Exemple d'entreprise : Infinity Experiences (Coentreprise fondée par Studio PHI et Felix et Paul Studios) qui fait des expériences immersives sur le thème de l'espace
 
-![Fondateurs](entreprises.jpg)
+![Image de la Nasa](nasa.jpg)
 
-(source de l'image : https://ctvm.info/nouvelle-coentreprise-entre-studio-phi-et-felix-paul-studios/)
-
+(source de l'image : par Nasa, [source](https://unsplash.com/fr/photos/un-astronaute-de-la-nasa-effectue-une-activite-extravehiculaire-gYwfpVI2JzM), [Licence](https://unsplash.com/fr/licence))
 - Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
 - Étapes de production : Idéation et recherche (concept), Préproduction (plan), Production (création), Postproducion (montage, tests), Opération (entretien, surveillance)
 - Type d'emploi visé : Développement technologique et programmation interactive
