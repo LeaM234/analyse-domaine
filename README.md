@@ -46,7 +46,8 @@
 
 ![Image de la Nasa](nasa.jpg)
 
-(source de l'image : par Nasa, [source](https://unsplash.com/fr/photos/un-astronaute-de-la-nasa-effectue-une-activite-extravehiculaire-gYwfpVI2JzM), [Licence](https://unsplash.com/fr/licence))
+(source de l'image : par Nasa, [Source](https://unsplash.com/fr/photos/un-astronaute-de-la-nasa-effectue-une-activite-extravehiculaire-gYwfpVI2JzM), [Licence](https://unsplash.com/fr/licence))
+
 - Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
 - Étapes de production : Idéation et recherche (concept), Préproduction (plan), Production (création), Postproducion (montage, tests), Opération (entretien, surveillance)
 - Type d'emploi visé : Développement technologique et programmation interactive
