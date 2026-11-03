@@ -44,9 +44,9 @@
 - Types d'entreprises : Startups, Organismes, Instituts culturels, diffuseurs
 - Exemple d'entreprise : Infinity Experiences (Coentreprise fondée par Studio PHI et Felix et Paul Studios)
 
-![Infinity Experiences](entreprise.png)
+![Fondateurs](entreprises.png)
 
-(source de l'image : https://theinfiniteexperience.world/fr/%C3%A0-propos)
+(source de l'image : https://ctvm.info/nouvelle-coentreprise-entre-studio-phi-et-felix-paul-studios/)
 
 - Types de produits et de services : réalité virtuelle, installation interactive, environnement immersif, bornes interactives
 - Étapes de production : Idéation et recherche (concept), Préproduction (plan), Production (création), Postproducion (montage, tests), Opération (entretien, surveillance)
